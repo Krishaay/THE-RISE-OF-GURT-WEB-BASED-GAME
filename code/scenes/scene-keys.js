@@ -1,0 +1,5 @@
+export const SCENE_KEYS = Object.freeze({
+    PRELOAD_SCENE: 'PRELOAD_SCENE',
+    MAINMENU_SCENE: 'MAINMENU_SCENE',
+    MAIN_SCENE: 'MAIN_SCENE',
+});
